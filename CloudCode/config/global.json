@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "latest"
+  },
+  "applications": {
+    "Blink": {
+      "applicationId": "8YlITbPd5u7VCtuwNk7qIJtbCaZ0cUryfRBRgpLP",
+      "masterKey": "dc8pn1zJVCqPkXJg6khZV763kSjpDNuKbfoKq99u"
+    },
+    "_default": {
+      "link": "Blink"
+    }
+  }
+}
